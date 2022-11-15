@@ -8,7 +8,7 @@
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
             <section>
                 <h1 class="field">
-                    <img class="avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAYAAADDPmHLAAAACXBIWXMAAAsTAAALEwEAmpwYAAAELElEQVR4nO2aa66dOgxG91CuPIbMf2qpqC4SogTixHl6LWn/6QF27G/ZHLX9/QAAAAAAAAAAAMCO+D+Gj4TVwj8ZfR7oSEzgNgRPxccL8l9AAG8TEG8CuJbA2xqMD+G7FcDjezAigF8BYiJ8lxvA43swIoBfAeJL+B7q/wcECH4F8LYKY8b071r7IwgQEOBtInabhMgG0DUEAeIW4j/ibRpiZr271Z0EAQIC5E7EDtMQ2QB+BYjK8Heo+RNPExERoL4pCLAZXqYiFtS5aq0qECAgwO6TEQunf8Va1XhYjREB2jRnBQliZfir1FkMAgQE2PX9GJn+tQSISn6Nw59d8OWnRBv4F5Y1IUDDJsVOSGX4bADjRlkH9gXhF6ziFtPSKiB5+X6mX0GrqekVvDycAQEGCfAmQevgxTD8t422HS1C6h28IMB8AvQMXhBgni0wKnwx/H43699agNHhCwKME2CG8MXoLO42QK0EM4UvBmdCgMXDl4pzuQy/dAPMGr5UnM+tAFoJZg9fCs+JABkCrBK+FJz3iZ8ncrbAagKI4szndW5F+BJgxfDlYbpzanvjtys7CyAZ4Wqu3VKEt4bsEr58iKGVZhsh7sEjQPAjQ2ryUzLs/DnQXFvDbwbuh0oVOToYmVCAZYVIHcC6Iat+DiyeUcI0wSNA6CJaNwlKwmcDhO6bx1SC0tARIA59/VRJkH677PFv/dIxiKUEeAu+tBgECHOH3yJ0BAjzCvAVuPWh2QBhnfB3mQLrZp7MXHtx+D0ONjpMMTqztpZetavCn6WZs34OrOrRXNssfAQI5oFZX9c0/BUEGHU2qQgrt67h4Y+WQLNSR0lwoP3Z2z2t61GHP1ICbXN7nk0U/4NnBgHuqMJ/kiD3gDXiaCcIAUK78FMSvIV7/3NtQCXT00uCg9xpe7r2636rSTcN/0uCe7H3QrSFlTTOmwC5mARfKkJp00qfMTJ8MRLAkibh58hgVRQCTBZ2jgQp40somZxVN8BSgd+pEaDkWasKcJBz7281tAKUPi/VwLfv7xW+VAiwdPgHOQFYCJBqIgIM5iuAEsNLp2jkBpAXGbed/pOYQenzZtgCBwhQIUGNULlhzCCAKP4irKY/02IRfq0EowWQzPu2FMCS1QU4IPxGAqQaPIsAB18/P7EbmQ2ZZQsc5F73de2V0f2dnlm2wIG1JAej+7sE14blNL63ACeEP0iAe0C5YdRKcKK5/6RVr7bl2jyLSayR4KT0vtG9XJZrE1uGLA2lGd3DpVlRgCuj+7cF14aODlcIHwmEyUcCYe0jgfDOR4IrA39N8se18fzC55SRElwZ3QfXXIMgfKf0kuDO6LrhwjWYnPBS10nmvTR/Qr4C1oafYnSd8MJTYE/BakM/oPGLEI35wZoQPPyFaQcAAAAAAAAAAAAAAAAAAMf8AS2T4Qiy4LaMAAAAAElFTkSuQmCC" width="20" height="20" />
+                    <img class="avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="20" height="20" />
                     <span>NightYagi</span>
                 </h1>
                 <div class="row">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    142k added, 14.6k removed
+                                    131k added, 12.7k removed
                                 </div>
                             </section>
                             <section>
@@ -414,7 +414,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 15 Nov 2022, 10:02:33  with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 15 Nov 2022, 11:04:21  with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
