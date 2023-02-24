@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on **Some game projects**.
-- 🌱 I’m currently learning **Rust and C++**.
-- 💬 Ask me about **my projects**.
+- 🔭 I’m currently working on **A 3D Platformer**.
+- 🌱 I’m currently learning **Godot Engine**.
 - 📫 How to reach me: https://www.nightyagi.me/
 - 😄 Pronouns: He/They
 
