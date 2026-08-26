@@ -329,7 +329,7 @@
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="245.22303162622762" height="8" fill="#e34c26"/>
                     <rect mask="url(#languages-bar)" x="245.22303162622762" y="0" width="112.93480430070345" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="358.15783592693106" y="0" width="47.12648191900176" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="358.15783592693106" y="0" width="47.12648191900176" height="8" fill="#7355dd"/>
                     <rect mask="url(#languages-bar)" x="405.2843178459328" y="0" width="18.48893233776947" height="8" fill="#199f4b"/>
                     <rect mask="url(#languages-bar)" x="423.77325018370226" y="0" width="15.343599204309164" height="8" fill="#f34b7d"/>
                     <rect mask="url(#languages-bar)" x="439.1168493880114" y="0" width="11.343505398870839" height="8" fill="#000080"/>
@@ -351,7 +351,7 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#178600" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#7355dd" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         C#
                     </div>
@@ -414,7 +414,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 26 Aug 2026, 16:09:18  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Aug 2026, 18:48:24  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
